@@ -1,1 +1,2 @@
-
+config:
+  info: master/config-test.yml
